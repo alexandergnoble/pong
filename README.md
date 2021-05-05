@@ -1,5 +1,5 @@
 # pong
-Task one make pong
+## Task one make pong
 - Two paddles, one Player controlled and one AI controlled.
 - Two paddles which have a constrained range of motion (ie: can't go beyond edge of screen, can only move on one axis)
 - A ball.
